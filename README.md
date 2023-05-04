@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=donghee%20HIHI&fontSize=50)
-### Hi there 👋 Currently, 클라우드 관련 java언어에서 go로 전환작업을 위해 go,java 등을 공부하는..
+### Hi there 👋 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidonghee&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidonghee&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
